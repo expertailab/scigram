@@ -5,6 +5,8 @@ This repository contains the official code accompanying the paper:
 
 Our goal is to facilitate research on the automatic understanding of scientific diagrams by providing the tools necessary to reconstruct the SciGram dataset from publicly available sources.
 
+🤗 **The data and the models are already available [here](https://huggingface.co/collections/expertailab/scigram).**
+
 
 ## 🔍 Overview
 
